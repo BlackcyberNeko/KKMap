@@ -1,4 +1,3 @@
-# KKMap
 <!DOCTYPE html>
 <html>
   <head>
